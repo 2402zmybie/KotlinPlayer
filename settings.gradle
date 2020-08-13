@@ -1,0 +1,2 @@
+rootProject.name='KotlinPlayer'
+include ':app'
