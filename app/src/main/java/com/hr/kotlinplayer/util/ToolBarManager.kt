@@ -37,4 +37,11 @@ interface ToolBarManager {
     fun initSettingToolBar() {
         toolbar.title = "设置"
     }
+
+    /**
+     * 处置设置界面的toolBar
+     */
+    fun initAboutToolBar() {
+        toolbar.title = "关于(彩蛋)"
+    }
 }
